@@ -1,14 +1,27 @@
+.Centralizar{
+    margin: 0 auto;
+    width: 900px;
+}
+
 .LadoIzquierdo{
-    margin: 25px;
-    width: 400px;
+    margin: 25px 0px 0px 0px;
+    width: 350px;
     height: 900px;
     background-color: rgb(255, 0, 0);
+    float: left;
+}
+
+.Contenido{
+    margin: 25px 0px 0px 0px;
+    width: 548px;
+    height: 900;
+    float: right;
 }
 
 #FotoPerfil{
     width: 250px;
     height: 150px;
-    padding: 40px 75px;
+    padding: 30px 55px;
 }
 
 .Nombre{
@@ -18,7 +31,22 @@
 }
 
 .Descripcion{
+    
     text-align: center;
     color: white;
     font-size: 25;
+}
+
+.Titulo{
+    margin: 5px;
+    color: rgb(255, 0, 0);
+}
+
+h3{
+    margin: 5px;
+}
+
+li{
+    margin: 5px;
+    font-size: 20;
 }
