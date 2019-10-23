@@ -4,3 +4,9 @@
     height: 900px;
     background-color: rgb(255, 0, 0);
 }
+
+#FotoPerfil{
+    width: 250px;
+    height: 150px;
+    padding: 25px 75px;
+}
