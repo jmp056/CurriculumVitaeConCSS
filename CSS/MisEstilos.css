@@ -8,5 +8,17 @@
 #FotoPerfil{
     width: 250px;
     height: 150px;
-    padding: 25px 75px;
+    padding: 40px 75px;
+}
+
+.Nombre{
+    text-align: center;
+    color: white;
+    font-size: 50;
+}
+
+.Descripcion{
+    text-align: center;
+    color: white;
+    font-size: 25;
 }
